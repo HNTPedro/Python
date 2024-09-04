@@ -1,0 +1,2 @@
+nomes=[input("Nome"),input("Nome"),input("Nome")]
+notas=[input("Nota"),input("Nota"),input("Nota")]
